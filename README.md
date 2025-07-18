@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[Click here to see demo]()
+[Click here to see demo](ellyrics.vercel.app)
 
 <h2>Project Screenshots:</h2>
 
@@ -14,7 +14,7 @@
 
 Here're some of the project's best features:
 
-*   Live search 
+*   search lyrics 
 *   Stunning UI
 *   Responsive design for diffrent screen sizes
 *   Pagination 
