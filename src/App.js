@@ -1,15 +1,15 @@
 import "./styles.css";
 
-import Header from "../components/Header";
-import SideBar from "../components/SideBar";
-import Search from "../components/Search";
-import List from "../components/List";
-import Pagination from "../components/Pagination";
-import Main from "../components/Main";
-import Details from "../components/Details";
-import Loader from "../components/Loader";
+import Details from "./components/Details";
+import Header from "./components/Header";
+import List from "./components/List";
+import Loader from "./components/Loader";
+import Main from "./components/Main";
+import Pagination from "./components/Pagination";
+import Search from "./components/Search";
+import SideBar from "./components/SideBar";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 export default function App() {
   const [query, setQuery] = useState("");
